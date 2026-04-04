@@ -316,6 +316,8 @@
 /lib/modules/stm_console.ko: /lib/modules/stm_core.ko
 /lib/modules/stm_ftrace.ko: /lib/modules/stm_core.ko
 /lib/modules/snd-usb-audio-qmi.ko: /lib/modules/qmi_helpers.ko
+/lib/modules/tcp_bic.ko:
+/lib/modules/tcp_htcp.ko:
 /lib/modules/cfg80211.ko:
 /lib/modules/mac80211.ko: /lib/modules/cfg80211.ko
 /lib/modules/qrtr.ko:

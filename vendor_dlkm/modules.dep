@@ -316,6 +316,8 @@
 /vendor_dlkm/lib/modules/stm_console.ko: /vendor_dlkm/lib/modules/stm_core.ko
 /vendor_dlkm/lib/modules/stm_ftrace.ko: /vendor_dlkm/lib/modules/stm_core.ko
 /vendor_dlkm/lib/modules/snd-usb-audio-qmi.ko: /vendor_dlkm/lib/modules/qmi_helpers.ko
+/vendor_dlkm/lib/modules/tcp_bic.ko:
+/vendor_dlkm/lib/modules/tcp_htcp.ko:
 /vendor_dlkm/lib/modules/cfg80211.ko:
 /vendor_dlkm/lib/modules/mac80211.ko: /vendor_dlkm/lib/modules/cfg80211.ko
 /vendor_dlkm/lib/modules/qrtr.ko:
